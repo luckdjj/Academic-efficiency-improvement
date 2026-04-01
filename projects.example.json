@@ -1,0 +1,12 @@
+[
+  {
+    "name": "耕地细碎化研究",
+    "pdf_dir": "D:\\Users\\Administrator\\Desktop\\文献整理\\研究细碎化",
+    "output_dir": "C:\\Users\\Administrator\\.qclaw\\workspace\\image_analysis"
+  },
+  {
+    "name": "农业多功能性研究",
+    "pdf_dir": "D:\\Users\\Administrator\\Desktop\\文献整理\\研究多功能",
+    "output_dir": "C:\\Users\\Administrator\\.qclaw\\workspace\\multifunctionality_analysis"
+  }
+]
